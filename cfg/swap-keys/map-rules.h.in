@@ -1,0 +1,4 @@
+/* Swap keys */
+{ .from_key = KEY_BACKSLASH, .to_key = KEY_BACKSPACE },
+{ .from_key = KEY_BACKSPACE, .to_key = KEY_BACKSLASH },
+/* vi:set ft=c: */
